@@ -1,17 +1,21 @@
 ### Hi there 👋
-#### My name is Ruban Nikolay and i'm noob :0
+#### My name is Kebrick, i'm interested in the development  web services, mobile app and  telegram bots.
 
-<!--
-**kebrick/kebrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
 
-Here are some ideas to get you started:
+  <h3> Work Stack </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ```python
+  ​
+  from dataclasses import dataclass
+ 
+  @dataclass
+  class WorkStack:
+      languages   : tuple = ("Python", "Golang", "Kotlin")
+      databases   : tuple = ("PostgreSQL", "Redis", "MongoDB")
+      misc        : tuple = ("Docker", "Traefik", "Celery")
+      ide         : tuple = ("PyCharm", "Golang", "AndroidStudio")
+  ​
+  ```
+
+
