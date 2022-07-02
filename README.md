@@ -11,9 +11,9 @@
  
   @dataclass
   class WorkStack:
-      languages   : tuple = ("Python", "Golang", "Kotlin", "SwiftUI")
+      languages   : tuple = ("Python", "Golang", "Kotlin", "Swift5")
       databases   : tuple = ("PostgreSQL", "Redis", "MongoDB")
-      misc        : tuple = ("Docker", "Traefik", "Celery")
+      misc        : tuple = ("Docker", "Traefik", "Celery", "SwiftUI")
       ide         : tuple = ("PyCharm", "Golang", "AndroidStudio", "Xcode")
   ​
   ```
