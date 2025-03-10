@@ -14,7 +14,7 @@
       languages   : tuple = ("Python", "Golang", "Kotlin", "Swift5")
       databases   : tuple = ("PostgreSQL", "Redis", "MongoDB")
       misc        : tuple = ("Docker", "Traefik", "Celery", "SwiftUI")
-      ide         : tuple = ("PyCharm", "Golang", "AndroidStudio", "Xcode")
+      ide         : tuple = ("PyCharm", "Goland", "AndroidStudio", "Xcode")
   ​
   ```
 
